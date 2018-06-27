@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EnglishQuizApp</string>
+    <string name="Question1">1. What is an <b><i>implement</i></b> ? </string>
+    <string name="Question2">2. What does <b><i>meticulous</i></b> mean?</string>
+    <string name="Question3">3. What does <b><i>aesthetic</i></b> mean?</string>
+    <string name="Question4">4. What does <b><i>adequate</i></b> mean?</string>
+    <string name="Question5">5. What does <b><i>enhance</i></b> mean?</string>
+    <string name="Question6">6. What does <b><i>optimistic</i></b> mean?</string>
+    <string name="Question7">7. What does <b><i>eradicate</i></b> mean?</string>
+    <string name="Question8">8. What does <b><i>permeate</i></b> mean?</string>
+    <string name="Question9">9. What does it mean to be <b><i>sophisticated</i></b> ?</string>
+    <string name="Question10">10. Which of these are vowel letters?</string>
+</resources>
